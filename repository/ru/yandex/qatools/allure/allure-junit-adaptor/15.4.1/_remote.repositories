@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 31 17:12:06 EEST 2015
+allure-junit-adaptor-15.4.1.pom>=
+allure-junit-adaptor-15.4.1-spi-off.jar>=
+allure-junit-adaptor-15.4.1.jar>=
+allure-junit-adaptor-15.4.1-sources.jar>=
